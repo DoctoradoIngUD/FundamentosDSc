@@ -29,7 +29,7 @@ Explora, experimenta, equivócate... ¡y sigue aprendiendo!
 
 ## 📼 Link de la presentación en YouTube 📼
 
--Sesión 1 Fundamentos Ciencia de datos: https://youtu.be/iqw3To9ZEFo
--Sesión 2 Fundamentos Ciencia de datos: https://youtu.be/ozmso7R6Dr4
--Sesión 3 Fundamentos Ciencia de datos: https://youtu.be/OObttmUZ6A0
--Sesión 4 Fundamentos Ciencia de datos: https://youtu.be/BusWf48rAC8
+- Sesión 1 Fundamentos Ciencia de datos: https://youtu.be/iqw3To9ZEFo
+- Sesión 2 Fundamentos Ciencia de datos: https://youtu.be/ozmso7R6Dr4
+- Sesión 3 Fundamentos Ciencia de datos: https://youtu.be/OObttmUZ6A0
+- Sesión 4 Fundamentos Ciencia de datos: https://youtu.be/BusWf48rAC8
